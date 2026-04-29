@@ -1,9 +1,9 @@
-TRIP — Revenue Intake Protocol (Revenue Control Infrastructure)
+TRIP - Revenue Intake Protocol (Revenue Control Infrastructure)
 What It Is:
 
 TRIP is a fully automated revenue control infrastructure that installs into a B2B SaaS company’s existing stack and manages everything between inbound demo requests and sales call execution.
 
-It operates continuously (24/7) and controls qualification, routing, booking access, revenue tracking, and show-rate protection — without requiring manual intervention.
+It operates continuously (24/7) and controls qualification, routing, booking access, revenue tracking, and show-rate protection - without requiring manual intervention.
 
 Problem:
 
@@ -81,9 +81,8 @@ Scalable and repeatable across multiple clients
 Designed for B2B SaaS companies with inbound demo flows
 
 Author:
-Aahil — Systems Architect focused on AI-driven revenue and automation infrastructure
+Aahil - Systems Architect focused on AI-driven revenue and automation infrastructure
 
-(Add here)
 
 Workflow diagrams (n8n / Apps Script)
 Google Sheets system structure
